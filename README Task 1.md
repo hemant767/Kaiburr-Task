@@ -1,6 +1,6 @@
 # Task 1
 
-<h1>ServerAPI</h1>
+<h1>Rest API</h1>
 
 
 

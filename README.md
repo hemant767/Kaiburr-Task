@@ -9,5 +9,5 @@
 <h5>GET Method: localhost:8080/servers<h5>  
  <p>To get the list of existing servers<p>
 
-<img src=./Ss/Get the list.png alt=""   width="500" height="600" >
+<img src=./Ss/Get the list.png alt=""   width="500" height="500" >
 

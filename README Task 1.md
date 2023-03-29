@@ -47,7 +47,8 @@
   <h5>PATCH :localhost:8080/servers?id=1 </h5>
   
   <p>Updating server whose id=2</p>
-  <img src="./Ss/post info process.png"  alt=""   width="800" height="400" >
+   <img src="./Ss/post info process.png"  alt=""   width="800" height="400" >
+  
   
   <p>Updated List (changing server with id =2's framework from c++ to Python</p>
    <img src="./Ss/Updated list.png"  alt=""   width="800" height="400" >
@@ -60,12 +61,7 @@
   
   
   
-  # Task 4
-  
-  <h1>UI for ServerAPI</h1>
-   
-    <img src="./Ss/UI.png"  alt=""   width="800" height="400" >
-  
+ 
 
   
   

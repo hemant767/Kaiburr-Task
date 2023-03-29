@@ -1,0 +1,30 @@
+.Row{
+    /* display: flex;
+    justify-content: space-around;
+    align-items: center; */
+    /* width:80%; */
+    background-color: #146C94;
+    height:50px;
+    text-align: center;
+    
+}
+td{
+    border:none;
+    margin:none
+}
+.Row:nth-child(even){
+    background-color: #19A7CE;
+}
+.Row:nth-child(1){
+    border-radius: 10px 10px 0 0;
+}
+.Row:last-child{
+    border-radius: 0 0 10px 10px;
+}
+
+.Row>span{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-color: red;
+}
